@@ -1,0 +1,23 @@
+name: 2024-01-15-NODD
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.11
+- cartopy
+- dask
+- datashader
+- gcsfs
+- geoviews
+- h5py
+- holoviews
+- hdf5
+- hvplot
+- jupyterlab
+- kerchunk
+- matplotlib
+- netcdf4
+- pip
+- scipy
+- xarray
+- zarr
