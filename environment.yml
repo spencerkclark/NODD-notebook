@@ -1,4 +1,4 @@
-name: 2024-01-15-NODD
+name: environment
 channels:
 - conda-forge
 - defaults
