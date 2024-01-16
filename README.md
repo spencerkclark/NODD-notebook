@@ -8,11 +8,13 @@ without downloading a copy of the data locally.
 
 ## Running in `binder`
 
-`binder` offers a way of freely running Jupyter notebooks in the cloud with a
-custom Python environment.  We have set this up for this repository.  You can
-use it to run the interactive visulation notebook; however, you will find that
-it runs relatively slowly.  You will likely find running it locally will
-produce a faster response.
+[`binder`](https://mybinder.org) offers a way of freely running Jupyter
+notebooks in the cloud with a custom Python environment.  We have set this up
+for this repository.  You can use it to run the interactive visulation
+notebook; however, you will find that it runs relatively slowly.  You will
+likely find running it locally will produce a faster response.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spencerkclark/NODD-notebook.git/HEAD?labpath=interactive-plot.ipynb)
 
 ## Running locally
 
