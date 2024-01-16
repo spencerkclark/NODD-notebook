@@ -18,7 +18,7 @@ likely find running it locally will produce a faster response.
 
 ## Running locally
 
-To run the interactive visulization notebook locally, first clone the
+To run the interactive visualization notebook locally, first clone the
 repository and install the needed Python dependencies:
 
 ```
