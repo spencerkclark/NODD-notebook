@@ -24,7 +24,7 @@ repository and install the needed Python dependencies:
 ```
 $ git clone https://github.com/spencerkclark/NODD-notebook.git
 $ cd NODD-notebook
-$ conda env create --file environment --name 2024-01-16-NODD-notebook
+$ conda env create --file environment.yml --name 2024-01-16-NODD-notebook
 $ conda activate 2024-01-16-NODD-notebook
 ```
 
