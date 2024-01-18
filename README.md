@@ -10,7 +10,7 @@ without downloading a copy of the data locally.
 
 [`binder`](https://mybinder.org) offers a way of freely running Jupyter
 notebooks in the cloud with a custom Python environment.  We have set this up
-for this repository.  You can use it to run the interactive visulation
+for this repository.  You can use it to run the interactive visualization
 notebook; however, you will find that it runs relatively slowly.  You will
 likely find running it locally will produce a faster response.
 
@@ -18,7 +18,7 @@ likely find running it locally will produce a faster response.
 
 ## Running locally
 
-To run the interactive visulization notebook locally, first clone the
+To run the interactive visualization notebook locally, first clone the
 repository and install the needed Python dependencies:
 
 ```
